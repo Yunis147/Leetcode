@@ -5,10 +5,15 @@ class Solution {
         for(int num:nums){
             if(num==1){
                 count++;
-                max = Math.max(count,max);
             }else{
+                if(count>max){
+                    max=count;
+                }
                 count=0;
             }
+        }
+        if(count>max){
+            return count;
         }
         return max;
     }
