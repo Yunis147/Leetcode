@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Yunis147/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yunis147/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0136-single-number](https://github.com/Yunis147/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Yunis147/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Yunis147/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Yunis147/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -24,4 +25,8 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yunis147/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Yunis147/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Yunis147/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/Yunis147/Leetcode/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
