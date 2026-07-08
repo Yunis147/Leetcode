@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Yunis147/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yunis147/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Yunis147/Leetcode/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/Yunis147/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Yunis147/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Yunis147/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/Yunis147/Leetcode/tree/main/0136-single-number/) | Easy |
@@ -63,5 +64,6 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Yunis147/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/Yunis147/Leetcode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
