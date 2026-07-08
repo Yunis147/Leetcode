@@ -15,6 +15,7 @@
 | [0217-contains-duplicate](https://github.com/Yunis147/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Yunis147/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Yunis147/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0704-binary-search](https://github.com/Yunis147/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Yunis147/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -59,4 +60,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Yunis147/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/Yunis147/Leetcode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
