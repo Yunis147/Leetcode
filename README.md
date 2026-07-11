@@ -39,6 +39,7 @@
 | [0027-remove-element](https://github.com/Yunis147/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/Yunis147/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Yunis147/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Yunis147/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/Yunis147/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Yunis147/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 ## Bit Manipulation
@@ -74,4 +75,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Yunis147/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Yunis147/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
