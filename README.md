@@ -26,6 +26,7 @@
 | [0485-max-consecutive-ones](https://github.com/Yunis147/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/Yunis147/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Yunis147/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/Yunis147/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Yunis147/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yunis147/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
@@ -111,6 +112,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Yunis147/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/Yunis147/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Yunis147/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yunis147/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Matrix
