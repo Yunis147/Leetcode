@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/Yunis147/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Yunis147/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Yunis147/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Yunis147/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Yunis147/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Yunis147/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Yunis147/Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -77,6 +78,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Yunis147/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yunis147/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Yunis147/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Yunis147/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0704-binary-search](https://github.com/Yunis147/Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
