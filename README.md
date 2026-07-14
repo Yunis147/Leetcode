@@ -26,6 +26,7 @@
 | [0485-max-consecutive-ones](https://github.com/Yunis147/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Yunis147/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Yunis147/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Yunis147/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Yunis147/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Yunis147/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Yunis147/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -57,6 +58,7 @@
 | [0125-valid-palindrome](https://github.com/Yunis147/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/Yunis147/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Yunis147/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Yunis147/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yunis147/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -70,6 +72,7 @@
 | [0169-majority-element](https://github.com/Yunis147/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Yunis147/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Yunis147/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Yunis147/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
