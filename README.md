@@ -34,6 +34,7 @@
 | [1920-build-array-from-permutation](https://github.com/Yunis147/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Yunis147/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yunis147/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3925-concatenate-array-with-reverse](https://github.com/Yunis147/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +132,7 @@
 | [1920-build-array-from-permutation](https://github.com/Yunis147/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Yunis147/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yunis147/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3925-concatenate-array-with-reverse](https://github.com/Yunis147/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
