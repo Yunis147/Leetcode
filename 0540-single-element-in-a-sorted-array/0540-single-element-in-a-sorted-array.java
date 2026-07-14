@@ -10,7 +10,7 @@ class Solution {
         if(nums[mid]==nums[mid+1]){
             l=mid+2;
         }else{
-            r=mid-1;
+            r=mid;
         }
      }
      return nums[l];
