@@ -24,6 +24,7 @@
 | [0238-product-of-array-except-self](https://github.com/Yunis147/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Yunis147/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Yunis147/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/Yunis147/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Yunis147/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Yunis147/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Yunis147/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -91,6 +92,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yunis147/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Yunis147/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Yunis147/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Yunis147/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Yunis147/Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
