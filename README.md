@@ -50,6 +50,7 @@
 | [0189-rotate-array](https://github.com/Yunis147/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/Yunis147/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Yunis147/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Yunis147/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
