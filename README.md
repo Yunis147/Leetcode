@@ -63,6 +63,7 @@
 | [2652-sum-multiples](https://github.com/Yunis147/Leetcode/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Yunis147/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Yunis147/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Yunis147/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,4 +172,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Yunis147/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Yunis147/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
