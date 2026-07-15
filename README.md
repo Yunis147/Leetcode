@@ -35,6 +35,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Yunis147/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Yunis147/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Yunis147/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/Yunis147/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Yunis147/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Yunis147/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yunis147/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -133,6 +134,7 @@
 | [0125-valid-palindrome](https://github.com/Yunis147/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Yunis147/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Yunis147/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/Yunis147/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
