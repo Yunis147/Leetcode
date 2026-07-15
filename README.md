@@ -52,6 +52,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Yunis147/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Yunis147/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0069-sqrtx](https://github.com/Yunis147/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/Yunis147/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/Yunis147/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Yunis147/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
@@ -106,6 +107,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Yunis147/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yunis147/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Yunis147/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Yunis147/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Yunis147/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Yunis147/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yunis147/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
