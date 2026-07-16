@@ -63,6 +63,7 @@
 | [0189-rotate-array](https://github.com/Yunis147/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/Yunis147/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Yunis147/Leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [1025-divisor-game](https://github.com/Yunis147/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Yunis147/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Yunis147/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2652-sum-multiples](https://github.com/Yunis147/Leetcode/tree/main/2652-sum-multiples/) | Easy |
@@ -124,6 +125,7 @@
 | [0053-maximum-subarray](https://github.com/Yunis147/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yunis147/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/Yunis147/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1025-divisor-game](https://github.com/Yunis147/Leetcode/tree/main/1025-divisor-game/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,4 +209,12 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Yunis147/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Yunis147/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yunis147/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/Yunis147/Leetcode/tree/main/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/Yunis147/Leetcode/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
