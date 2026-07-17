@@ -161,6 +161,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Yunis147/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Yunis147/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Yunis147/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/Yunis147/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
@@ -205,6 +206,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yunis147/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/Yunis147/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0092-reverse-linked-list-ii](https://github.com/Yunis147/Leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Yunis147/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Yunis147/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
