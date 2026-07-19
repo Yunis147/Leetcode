@@ -165,6 +165,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Yunis147/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/Yunis147/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Yunis147/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yunis147/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1773-count-items-matching-a-rule](https://github.com/Yunis147/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Yunis147/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Recursion
@@ -207,6 +208,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Yunis147/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Yunis147/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yunis147/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,8 +248,10 @@
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/Yunis147/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Yunis147/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yunis147/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Yunis147/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yunis147/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->
