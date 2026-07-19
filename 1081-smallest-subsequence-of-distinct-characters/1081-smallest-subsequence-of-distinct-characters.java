@@ -1,11 +1,11 @@
 class Solution {
     public String smallestSubsequence(String s) {
-        int[] freq = new int[26];
+        int freq[] = new int[26];
         for(int i=0;i<s.length();i++){
             freq[s.charAt(i)-'a']++;
         }
-        Stack<Character> st = new Stack<>();
         boolean[] visited = new boolean[26];
+        Stack<Character> st=new Stack<>();
         for(int i=0;i<s.length();i++){
             char ch = s.charAt(i);
             if(visited[ch-'a']){
@@ -17,10 +17,10 @@ class Solution {
                 st.pop();
             }
             st.push(ch);
-            visited[ch-'a']=true;
             freq[ch-'a']--;
+            visited[ch-'a']=true;
         }
-        StringBuilder sb = new StringBuilder();
+        StringBuilder sb =new StringBuilder();
         for(char c:st){
             sb.append(c);
         }
