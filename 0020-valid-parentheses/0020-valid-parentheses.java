@@ -9,10 +9,8 @@ class Solution {
                 if(s.empty()){
                     return false;
                 }
-                char top = s.peek();
-                if((top=='(' && ch==')') || (top=='[' && ch==']') || (top=='{' && ch=='}')){
-                    s.pop();
-                }else{
+                char top = s.pop();
+                if((top=='(' && ch!=')') || (top=='{' && ch!='}') || (top=='[' && ch!=']')){
                     return false;
                 }
             }
