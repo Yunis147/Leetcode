@@ -62,6 +62,7 @@
 | [0242-valid-anagram](https://github.com/Yunis147/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Yunis147/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Yunis147/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Yunis147/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3945-digit-frequency-score](https://github.com/Yunis147/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -180,6 +181,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yunis147/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1773-count-items-matching-a-rule](https://github.com/Yunis147/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Yunis147/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Yunis147/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
