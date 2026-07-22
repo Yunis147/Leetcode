@@ -4,7 +4,6 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             sum+=nums[i];
         }
-        int op = sum%k;
-        return op;
+        return sum%k;
     }
 }
