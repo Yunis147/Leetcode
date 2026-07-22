@@ -84,6 +84,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Yunis147/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Yunis147/Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yunis147/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/Yunis147/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yunis147/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3945-digit-frequency-score](https://github.com/Yunis147/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Two Pointers
