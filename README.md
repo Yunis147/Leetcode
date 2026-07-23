@@ -44,6 +44,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yunis147/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yunis147/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yunis147/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/Yunis147/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Yunis147/Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Yunis147/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yunis147/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -130,6 +131,7 @@
 | [0242-valid-anagram](https://github.com/Yunis147/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Yunis147/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yunis147/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/Yunis147/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yunis147/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -142,6 +144,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Yunis147/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Yunis147/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/Yunis147/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
