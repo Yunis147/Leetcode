@@ -1,10 +1,18 @@
 class Solution {
     public int[] transformArray(int[] nums) {
-        int[] n = new int[nums.length];
-        for(int i=0;i<nums.length;i++){
-            n[i] = nums[i]%2==0?0:1;
+        int odd=0;
+        for(int num:nums){
+            if(num%2!=0) odd++;
         }
-        Arrays.sort(n);
-        return n;
+        int last = nums.length-1;
+        while(odd>0){
+            nums[last]=1;
+            last--;
+            odd--;
+        }
+        while(last>=0){
+            nums[last--]=0;
+        }
+        return nums;
     }
 }
