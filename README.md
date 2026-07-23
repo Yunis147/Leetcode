@@ -83,6 +83,7 @@
 | [2652-sum-multiples](https://github.com/Yunis147/Leetcode/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Yunis147/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Yunis147/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/Yunis147/Leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Yunis147/Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yunis147/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Yunis147/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -182,6 +183,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/Yunis147/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Yunis147/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/Yunis147/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/Yunis147/Leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Yunis147/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
