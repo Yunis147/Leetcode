@@ -184,6 +184,7 @@
 | [0344-reverse-string](https://github.com/Yunis147/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Yunis147/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yunis147/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yunis147/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1773-count-items-matching-a-rule](https://github.com/Yunis147/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Yunis147/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/Yunis147/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
@@ -308,4 +309,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Yunis147/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yunis147/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 <!---LeetCode Topics End-->
