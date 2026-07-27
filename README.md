@@ -29,6 +29,7 @@
 | [0238-product-of-array-except-self](https://github.com/Yunis147/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yunis147/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Yunis147/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/Yunis147/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Yunis147/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Yunis147/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Yunis147/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -175,6 +176,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Yunis147/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/Yunis147/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Yunis147/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Yunis147/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## String
@@ -300,6 +302,7 @@
 | [0155-min-stack](https://github.com/Yunis147/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Yunis147/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Yunis147/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/Yunis147/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
