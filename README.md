@@ -54,6 +54,7 @@
 | [3467-transform-array-by-parity](https://github.com/Yunis147/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Yunis147/Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Yunis147/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Yunis147/Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yunis147/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Yunis147/Leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Yunis147/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -95,6 +96,7 @@
 | [3280-convert-date-to-binary](https://github.com/Yunis147/Leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Yunis147/Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yunis147/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Yunis147/Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Yunis147/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yunis147/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3945-digit-frequency-score](https://github.com/Yunis147/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
