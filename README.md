@@ -35,6 +35,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Yunis147/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Yunis147/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Yunis147/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/Yunis147/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Yunis147/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/Yunis147/Leetcode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Yunis147/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -148,6 +149,7 @@
 | [0053-maximum-subarray](https://github.com/Yunis147/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Yunis147/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yunis147/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Yunis147/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +162,7 @@
 | [0053-maximum-subarray](https://github.com/Yunis147/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yunis147/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/Yunis147/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/Yunis147/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1025-divisor-game](https://github.com/Yunis147/Leetcode/tree/main/1025-divisor-game/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -311,6 +314,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Yunis147/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Yunis147/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/Yunis147/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -326,4 +330,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yunis147/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Yunis147/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
