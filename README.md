@@ -203,6 +203,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Yunis147/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/Yunis147/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Yunis147/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yunis147/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yunis147/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yunis147/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1773-count-items-matching-a-rule](https://github.com/Yunis147/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
@@ -304,6 +305,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Yunis147/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Yunis147/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Yunis147/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yunis147/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yunis147/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
