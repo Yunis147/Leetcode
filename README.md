@@ -87,6 +87,7 @@
 | [0002-add-two-numbers](https://github.com/Yunis147/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Yunis147/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Yunis147/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0050-powx-n](https://github.com/Yunis147/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/Yunis147/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/Yunis147/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0258-add-digits](https://github.com/Yunis147/Leetcode/tree/main/0258-add-digits/) | Easy |
@@ -230,6 +231,7 @@
 | [0002-add-two-numbers](https://github.com/Yunis147/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Yunis147/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/Yunis147/Leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0050-powx-n](https://github.com/Yunis147/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Yunis147/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Yunis147/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Yunis147/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
