@@ -178,6 +178,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Yunis147/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0045-jump-game-ii](https://github.com/Yunis147/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Yunis147/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yunis147/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -214,6 +215,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yunis147/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Yunis147/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Yunis147/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Yunis147/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/Yunis147/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Yunis147/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Yunis147/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -372,6 +374,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Yunis147/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Yunis147/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,5 +382,6 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Yunis147/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/Yunis147/Leetcode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
