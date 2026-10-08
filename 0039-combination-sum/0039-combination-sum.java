@@ -6,12 +6,12 @@ class Solution {
         return l;
     }
     public void helper(int start ,int sum,int[] candidates, int target,List<List<Integer>> l,List<Integer> temp){
-        if(sum>target) return;
         if(sum==target){
             l.add(new ArrayList<>(temp));
             return;
         }
         for(int i=start;i<candidates.length;i++){
+            if(sum+candidates[i]>target) continue;
             sum+=candidates[i];
             temp.add(candidates[i]);
             helper(i,sum,candidates,target,l,temp);
