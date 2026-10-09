@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/Yunis147/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Yunis147/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/Yunis147/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
+| [0046-permutations](https://github.com/Yunis147/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/Yunis147/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Yunis147/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Yunis147/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
@@ -388,5 +389,6 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Yunis147/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Yunis147/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Yunis147/Leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0046-permutations](https://github.com/Yunis147/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Yunis147/Leetcode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
