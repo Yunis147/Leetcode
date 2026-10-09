@@ -186,6 +186,7 @@
 | [0053-maximum-subarray](https://github.com/Yunis147/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yunis147/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yunis147/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Yunis147/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Yunis147/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/Yunis147/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Yunis147/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -221,6 +222,7 @@
 | [0020-valid-parentheses](https://github.com/Yunis147/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Yunis147/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/Yunis147/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/Yunis147/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0242-valid-anagram](https://github.com/Yunis147/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Yunis147/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/Yunis147/Leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -391,4 +393,5 @@
 | [0039-combination-sum](https://github.com/Yunis147/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Yunis147/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Yunis147/Leetcode/tree/main/0078-subsets/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Yunis147/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 <!---LeetCode Topics End-->
