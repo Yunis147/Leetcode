@@ -117,6 +117,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yunis147/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Yunis147/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Yunis147/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yunis147/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
@@ -183,6 +184,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yunis147/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Yunis147/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0045-jump-game-ii](https://github.com/Yunis147/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Yunis147/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -219,6 +221,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yunis147/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/Yunis147/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Yunis147/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Yunis147/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Yunis147/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
@@ -397,4 +400,8 @@
 | [0078-subsets](https://github.com/Yunis147/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Yunis147/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Yunis147/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yunis147/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
